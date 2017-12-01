@@ -1,0 +1,4 @@
+C:\Users\conta\Desktop\Source\autominer\windows\autominer\autominer-svc\bin\Debug\netstandard1.4\autominer-svc.deps.json
+C:\Users\conta\Desktop\Source\autominer\windows\autominer\autominer-svc\obj\Debug\netstandard1.4\autominer-svc.csprojResolveAssemblyReference.cache
+C:\Users\conta\Desktop\Source\autominer\windows\autominer\autominer-svc\obj\Debug\netstandard1.4\autominer-svc.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Source\autominer\windows\autominer\autominer-svc\obj\Debug\netstandard1.4\autominer-svc.AssemblyInfo.cs
